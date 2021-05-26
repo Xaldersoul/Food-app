@@ -8,7 +8,7 @@
   <img height="200" src="./cooking.png" />
 </p>
 
-<h2>Aplicación web realizado como trabajo individual en el bootcamp de HENRY en un transcurso de 3 semanas.
+<h3>Aplicación web realizado como trabajo individual en el bootcamp de HENRY en un transcurso de 3 semanas.
 la aplicación utiliza tecnologias JavaScript, React, Redux, Express, PostgreSQL y Styled Components.
-cuenta con funciones de búsqueda filtrado y ordenamiento además de utilizar una API se maneja una base de datos pudiendo añadir recetas nuevas a la base de datos.<h2/>
+cuenta con funciones de búsqueda filtrado y ordenamiento además de utilizar una API se maneja una base de datos pudiendo añadir recetas nuevas a la base de datos.<h3/>
     
